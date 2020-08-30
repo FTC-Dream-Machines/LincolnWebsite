@@ -1,0 +1,168 @@
+*
+{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+Body
+{
+	background-color: white;
+	font: arial;
+
+}
+.menu-bar
+{
+	background: black;
+	text-align: center;
+}
+.menu-bar ul
+{
+	display: inline-flex;
+	list-style: none;
+	color: white;
+}
+.menu-bar ul li
+{
+	width: 300px;
+	margin: 10px;
+	padding: 15px;
+	font-family: arial;
+	font-weight: 1000;
+}
+
+.menu-bar ul li a
+{
+	text-decoration: none;
+	color: white;
+}
+
+.bigheader
+{
+	color: white;
+	font: arial;
+}
+
+.FirstHeader
+{
+	font-family: arial;
+	color: white;
+	font-weight: 1200;
+	font-size: 100px;
+}
+
+.wrapper
+{
+	margin: 0 auto;
+	width: 1000px;
+}
+
+.img-Trump1
+{
+	width: 100%;
+	height: 400px;
+	background-image: url(Trump.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.img-Biden1
+{
+	width: 100%;
+	height: 400px;
+	background-image: url(Biden.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: top;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.RegText
+{
+	font-family: arial;
+	color: black;
+	font-weight: 700;
+	font-size: 20px;
+}
+
+.FirstHeaderBlack
+{
+	font-family: arial;
+	color: black;
+	font-weight: 1200;
+	font-size: 100px;
+}
+
+.RegTextBig
+{
+	font-family: arial;
+	color: black;
+	font-weight: 700;
+	font-size: 40px;
+}
+
+.Header2
+{
+	font-family: arial;
+	color: black;
+	font-weight: 700;
+	font-size: 30px;
+}
+
+.credit
+{
+	font-family: arial;
+	color: black;
+	font-weight: 700;
+	font size: 25;
+}
+
+.BidenText
+{
+	font-family: arial;
+	color: black;
+	font-weight: 1200;
+	font-size: 30px;
+}
+
+table
+{
+	width: 400px
+}
+
+th {
+	text-align: center;
+}
+
+td {
+	text-align: center;
+}
+
+table, th, td
+{
+	border: 1px solid #000
+
+}
+
+table.center {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.img-Trump2
+{
+	width: 100%;
+	height: 400px;
+	background-image: url(https://media.vanityfair.com/photos/5e7506069c91c70009797042/3:2/w_1998,h_1332,c_limit/donaldtrumppeteralexander.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
